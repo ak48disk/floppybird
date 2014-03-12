@@ -1,0 +1,3 @@
+[submodule "js-handtracking"]
+	path = js-handtracking
+	url = https://github.com/ak48disk/js-handtracking.git
